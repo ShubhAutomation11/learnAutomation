@@ -1,0 +1,10 @@
+#Data values for Orange HR application
+baseUrlHR=https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+userName=Admin
+password=admin123
+
+#Data Values for SauceDemo Application
+baseUrlSauce=https://www.saucedemo.com
+userNames=shubh
+passwords=secret_sauce1111
+
