@@ -9,6 +9,7 @@ import Pom.pages.SauceDemoLogin;
 import src.learn.util.ConfigReader;
 
 public class SauceLoginTest extends BaseTest {
+	//SauceTest
 
 	@Test(groups = { "Sanity", "Regression" })
 	@Parameters({ "val1", "val2" })
