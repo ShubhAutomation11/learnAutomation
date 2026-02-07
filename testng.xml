@@ -11,7 +11,7 @@
 		<parameter name="val1" value="standard_user" />
 		<parameter name="val2" value="secret_sauce" />
 		<classes>
-			<class name="pom.learn.test.LoginTest" />
+			<class name="pom.learn.test.SauceLoginTest" />
 		</classes>
 	</test> <!--
 	Test -->
